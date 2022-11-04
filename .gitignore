@@ -1,2 +1,4 @@
-Config.py
+config.py
 venv/
+__pycache__/
+.git/
